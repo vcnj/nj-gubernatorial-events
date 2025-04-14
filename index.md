@@ -1,4 +1,2 @@
 ---
-title: Welcome to my blog
----
-
+title: NJ Gubernatorial Events Listing
